@@ -1,4 +1,3 @@
-# Chrome-lens
 # Blink Renderer Platform
 
 The `renderer/platform/` directory contains lower-level, self-contained
