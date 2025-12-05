@@ -1,7 +1,7 @@
 git clone https://skia.googlesource.com/buildbot.git
 cd buildbot
 Install dependencies
-
+```
 Almost all applications are built with Bazel, and bazelisk is the recommended tool to ensure you have the right version of bazel installed:
 
 go install github.com/bazelbuild/bazelisk@latest
