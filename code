@@ -1,0 +1,9 @@
+pilotai/
+ ├── backend/
+ ├── frontend/
+ ├── mobile/
+ ├── k8s/
+ ├── nginx/
+ ├── .github/
+ ├── docs/
+ └── docker-compose.yml
